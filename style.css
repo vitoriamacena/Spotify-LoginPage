@@ -1,7 +1,5 @@
 @import url(//db.onlinewebfonts.com/c/01173b246d9d9ea808ea75a26b3b61bb?family=Circular+Spotify+Tx+T+Black);
 
-/* Percebi que repeti MUITA coisa no código */
-
 * {
     margin: 0;
     padding: 0;
@@ -199,14 +197,3 @@ input {
     color: #FFFFFF;
     transition: .4s;
 }
-
-
-/* input[type="checkbox"] {
-    visibility: hidden;
-}
-
-input[type="checkbox"] {
-    content: "\00a00";
-    border: 1px solid green;
-    height: 16px;
-} */
